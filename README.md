@@ -34,7 +34,7 @@ print(foo)
 }
 ```
 
-- <b>Print key of value :</b>
+- <b>Print the value of an key :</b>
 ---
 ```python
 from pydtoc import dtc
