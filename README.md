@@ -1,8 +1,3 @@
-<p align="center">
-    <b>
-        Dictionary to class
-    </b>
-</p>
 
 # Install:
 ---
