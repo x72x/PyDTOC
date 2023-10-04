@@ -7,12 +7,12 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '2023.10.4'
+VERSION = '2023.10.5'
 DESCRIPTION = 'Awesome module for conver dict to class'
 
 # Setting up
 setup(
-    name="pydtoc",
+    name="python-dtoc",
     version=VERSION,
     author="ZAID",
     author_email="y8838@hotmail.com",
@@ -29,5 +29,5 @@ setup(
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
     ],
-    python_requires="~=3.0",
+    python_requires="~=3.6",
 )
