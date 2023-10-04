@@ -28,8 +28,6 @@ class dtc(Parser):
                 for i in dic:
                     if isinstance(dic[i], dict):
                         setattr(self, i, dtc(dic[i]))
-                    elif isinstance(dic[i], str):
-                        setattr(self, i, dic[i])
                     elif isinstance(dic[i], list):
                         setattr(self, i, [dtc(x) if isinstance(x, dict) else x for x in dic[i]])
                     else:
