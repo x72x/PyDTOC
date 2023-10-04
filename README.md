@@ -3,7 +3,7 @@
 
 
 # Install:
-- `pip install pydtoc`
+- `pip install python-dtoc`
 
 
 ## Simple example:
