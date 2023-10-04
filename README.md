@@ -1,5 +1,5 @@
 # About this project:
-- This project created to conver any dict into class in python :) check [PyPI](https://pypi.org/project/pydtoc/)
+- This project created to convert any dict into class in python :) check [PyPI](https://pypi.org/project/pydtoc/)
 
 
 # Install:
@@ -7,7 +7,6 @@
 
 
 ## Simple example:
----
 - <b>Print the object :</b>
 ---
 ```python
