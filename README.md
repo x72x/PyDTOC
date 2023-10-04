@@ -1,12 +1,16 @@
+# About this project:
+<b>
+- This project created to conver any dict into class in python :) check [PyPI](https://pypi.org/project/pydtoc/)
+</b>
+
 
 # Install:
----
 - `pip install pydtoc`
 
 
-# Simple example:
+## Simple example:
 ---
-## Code for print:
+- <b>Print the object :</b>
 ---
 ```python
 from pydtoc import dtc
@@ -33,7 +37,7 @@ print(foo)
 }
 ```
 
-## Print key of value:
+- <b>Print key of value :</b>
 ---
 ```python
 from pydtoc import dtc
