@@ -1,6 +1,8 @@
 # About this project:
 - This project created to convert any dict into class in python :) check [PyPI](https://pypi.org/project/python-dtoc/)
 
+# Bades:
+- [![Downloads](https://static.pepy.tech/badge/python-dtoc)](https://pepy.tech/project/python-dtoc)
 
 # Install:
 - `pip install python-dtoc`
